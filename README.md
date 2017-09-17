@@ -4,9 +4,6 @@ This is my website for "Web and Database Computing", this project asked us to de
 
 ## Getting Started
 
-apt-get install mariadb-server
-apt-get install node
-
 Run command in ./server/
 ```
 npm install
@@ -18,5 +15,6 @@ Then connect to localhost:9000
 
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Bootstrapped from
 * [Semantic UI React](https://react.semantic-ui.com/introduction) - For the theme
+* [MariaDB](https://mariadb.org/) - Database service
 
 
